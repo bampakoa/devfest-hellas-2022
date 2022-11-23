@@ -1,5 +1,5 @@
 <ul>
   <li *ngFor="let product of products$ | async">
-    {{product.title}}
+    <a [routerLink]="['/products', product.id]">{{product.title}}</a>
   </li>
 </ul>
