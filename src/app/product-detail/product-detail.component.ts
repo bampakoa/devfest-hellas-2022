@@ -4,11 +4,12 @@ import { Observable } from 'rxjs';
 import { Product } from '../product';
 import { ActivatedRoute } from '@angular/router';
 import { ProductsService } from '../products.service';
+import { MatCardModule } from '@angular/material/card';
 
 @Component({
   selector: 'app-product-detail',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, MatCardModule],
   templateUrl: './product-detail.component.html',
   styleUrls: ['./product-detail.component.scss']
 })
