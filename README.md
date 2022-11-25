@@ -45,15 +45,10 @@ npm run start
 
 👤 **Aristeidis Bampakos**
 
-* Website: https://medium.com/@abampakos
+* Google Developer Profile: https://g.dev/aristeidis
+* Amazon: https://www.amazon.com/~/e/B08DVFKKGN
+* Blog: https://medium.com/@abampakos
 * Twitter: [@abampakos](https://twitter.com/abampakos)
 * Github: [@bampakoa](https://github.com/bampakoa)
 * LinkedIn: [@aristeidisbampakos](https://linkedin.com/in/aristeidisbampakos)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+* YouTube: [@abampakos](https://youtube.com/@abampakos)
